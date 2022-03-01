@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/organization-request-r02tg.sass-l087bjj1",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 9rydU1CZTtt2TCvIMTX9 --open"
+  },
+  "devDependencies": {
+    "lit-html": "^1.4.1"
+  },
+  "dependencies": {
+    "@divriots/dockit-core": "^0.1.9"
+  }
+}

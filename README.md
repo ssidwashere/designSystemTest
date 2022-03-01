@@ -1,2 +1,0 @@
-# designSystemTest
-Sass
